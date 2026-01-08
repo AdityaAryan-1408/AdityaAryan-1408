@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Aditya Aryan
 
-<!--
-**AdityaAryan-1408/AdityaAryan-1408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer based in India, working at the intersection of **Web Development, Generative AI, and DevOps**.  
+Currently pursuing my **MCA at NIT Jamshedpur** and focused on building real-world, production-ready systems.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into scalable applications, automating workflows, and experimenting with AI-powered features that solve practical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Find Me Online
+
+- 🌍 **Portfolio:** https://aditya-aryan-portfolio.vercel.app/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/aditya-aryan-7211b3241/
+---
+
+## 📌 Current Focus
+
+- Exploring **LLMs, RAG pipelines, and AI integrations**
+- Learning and applying **DevOps & deployment best practices**
+
+---
+
+Thanks for stopping by — feel free to explore my repositories ⭐
