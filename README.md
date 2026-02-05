@@ -2,7 +2,6 @@
 Developer based in India, working at the intersection of Web Development, Generative AI, and DevOps.<br>
 Currently pursuing my MCA at NIT Jamshedpur and focused on building real-world, production-ready systems.<br><br>
 I enjoy turning ideas into scalable applications, automating workflows, and experimenting with AI-powered features that solve practical problems.
----
 
 ---
 
@@ -68,3 +67,4 @@ I enjoy turning ideas into scalable applications, automating workflows, and expe
 
 ---
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
