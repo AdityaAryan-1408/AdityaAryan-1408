@@ -8,7 +8,7 @@ I enjoy turning ideas into scalable applications, automating workflows, and expe
 ## 🌐 Find Me Online
 
 - 🌍 **Portfolio:** https://aditya-aryan-portfolio.vercel.app/
-- 💼 **LinkedIn:** https://www.linkedin.com/in/aditya-aryan-7211b3241/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/aryanaditya1408/
 ---
 
 ## 📌 Current Focus
