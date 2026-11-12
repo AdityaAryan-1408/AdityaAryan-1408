@@ -316,7 +316,7 @@ I enjoy turning ideas into scalable applications, automating workflows, and buil
 })()
 ```
 
-![Contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=AdityaAryan-1408&bg_color=0b0d10&color=aab7c4&line=91b7a2&point=e7edf1&area=true&hide_border=true)
+![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=AdityaAryan-1408&bg_color=0b0d10&color=91b7a2&line=91b7a2&point=e7edf1&area=true&hide_border=true)
 
 ---
 
